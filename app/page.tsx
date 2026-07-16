@@ -172,7 +172,7 @@ export default function HomePage() {
             animate="visible"
             className="inline-flex items-center gap-2 mt-12 px-4 py-2 rounded-full bg-[var(--surface)] border border-[var(--border)] text-sm text-[var(--muted)]"
           >
-            <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+            <span className="w-2 h-2 rounded-full bg-rose-400 animate-pulse" />
             {t("hero.availability")}
           </motion.div>
         </div>

@@ -119,7 +119,7 @@ function FormField({ id, label, icon, error, children }: FormFieldProps) {
             animate={{ opacity: 1, y: 0 }}
             exit={{ opacity: 0, y: -4 }}
             transition={{ duration: 0.2 }}
-            className="flex items-center gap-1.5 text-xs text-red-400 mt-0.5"
+            className="flex items-center gap-1.5 text-xs text-orange-400 mt-0.5"
           >
             <AlertCircle size={12} />
             {error}
@@ -284,7 +284,7 @@ function ContactForm({ onSuccess }: { onSuccess: () => void }) {
         <motion.p
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
-          className="flex items-center gap-2 text-sm text-red-400 bg-red-400/10 border border-red-400/20 rounded-xl px-4 py-3"
+          className="flex items-center gap-2 text-sm text-orange-400 bg-orange-400/10 border border-orange-400/20 rounded-xl px-4 py-3"
         >
           <AlertCircle size={16} />
           {t("contact.form.errorMessage")}
@@ -415,7 +415,7 @@ function ContactInfoBlock() {
           {t("contact.info.availability")}
         </p>
         <div className="flex items-center gap-2 mb-2">
-          <span className="w-2 h-2 rounded-full bg-emerald-400 shadow-[0_0_6px_rgba(52,211,153,0.8)]" />
+          <span className="w-2 h-2 rounded-full bg-rose-400 shadow-[0_0_6px_rgba(52,211,153,0.8)]" />
           <span className="text-sm font-medium text-[var(--foreground)]">
             {t("contact.info.availableStatus")}
           </span>
@@ -442,9 +442,9 @@ function SuccessToast({ visible, onDismiss }: { visible: boolean; onDismiss: () 
           initial="hidden"
           animate="visible"
           exit="exit"
-          className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 bg-[var(--surface)] border border-emerald-500/30 shadow-[0_8px_32px_rgba(0,0,0,0.4),0_0_0_1px_rgba(52,211,153,0.15)] rounded-2xl px-6 py-4 min-w-[320px] max-w-sm"
+          className="fixed bottom-8 left-1/2 -translate-x-1/2 z-50 flex items-center gap-3 bg-[var(--surface)] border border-rose-500/30 shadow-[0_8px_32px_rgba(0,0,0,0.4),0_0_0_1px_rgba(52,211,153,0.15)] rounded-2xl px-6 py-4 min-w-[320px] max-w-sm"
         >
-          <span className="w-9 h-9 rounded-xl bg-emerald-400/10 flex items-center justify-center text-emerald-400 flex-shrink-0">
+          <span className="w-9 h-9 rounded-xl bg-rose-400/10 flex items-center justify-center text-rose-400 flex-shrink-0">
             <CheckCircle size={20} />
           </span>
           <div className="flex-1">
