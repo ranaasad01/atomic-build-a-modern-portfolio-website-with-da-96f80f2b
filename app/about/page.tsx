@@ -47,7 +47,7 @@ const socialIconMap = {
 
 const socialColors: Record<string, string> = {
   github: "hover:bg-[var(--primary)]/10 hover:text-[var(--primary)]",
-  linkedin: "hover:bg-blue-500/10 hover:text-blue-400",
+  linkedin: "hover:bg-orange-500/10 hover:text-orange-400",
   twitter: "hover:bg-sky-400/10 hover:text-sky-400",
 };
 
