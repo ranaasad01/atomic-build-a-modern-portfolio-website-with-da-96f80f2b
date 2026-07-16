@@ -1,1 +1,222 @@
-{}
+{
+  "nav": {
+    "brand": "Alex Rivera",
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "cta": "Hire me",
+    "menuToggle": "Toggle navigation menu"
+  },
+  "footer": {
+    "tagline": "Full-Stack Developer crafting high-performance web products with care and precision.",
+    "navigation": "Navigation",
+    "connect": "Connect",
+    "copyright": "© {year} {name}. All rights reserved.",
+    "builtWith": "Built with Next.js & Framer Motion"
+  },
+  "hero": {
+    "eyebrow": "Available for new projects",
+    "heading": "Crafting digital experiences that leave a mark.",
+    "nameIntro": "Hi, I'm Alex Rivera",
+    "body": "A Full-Stack Developer who turns complex ideas into elegant, high-performance web products. I obsess over the details so your users never have to.",
+    "availability": "Available for freelance projects and full-time opportunities.",
+    "ctaPrimary": "See my work",
+    "ctaSecondary": "Get in touch",
+    "scrollHint": "Scroll to explore",
+    "cta_primary": "View My Work",
+    "cta_secondary": "Get in Touch",
+    "headline1": "Creative Developer",
+    "headline2": "&",
+    "headline3": "Design Thinker",
+    "subtext": "Crafting digital experiences that blend aesthetics with functionality."
+  },
+  "featured": {
+    "eyebrow": "Selected Work",
+    "heading": "Projects I'm proud of",
+    "body": "A curated look at projects — from zero-to-launch products to deep technical rebuilds.",
+    "viewAll": "View all projects"
+  },
+  "skills": {
+    "eyebrow": "Capabilities",
+    "heading": "What I Bring to the Table",
+    "body": "A full-spectrum toolkit built for modern web development — from pixel-perfect interfaces to scalable back-end architecture.",
+    "react": "React & Next.js",
+    "reactDesc": "Component-driven UIs with server-side rendering and the App Router.",
+    "typescript": "TypeScript",
+    "typescriptDesc": "Type-safe codebases that scale without surprises.",
+    "nodejs": "Node.js & APIs",
+    "nodejsDesc": "Robust back-end services and REST/GraphQL data layers.",
+    "postgres": "PostgreSQL & Prisma",
+    "postgresDesc": "Relational databases modelled for clarity and speed.",
+    "tailwind": "Tailwind & Framer Motion",
+    "tailwindDesc": "Design systems and fluid animations, hand in hand.",
+    "devops": "Docker & CI/CD",
+    "devopsDesc": "Containerised deployments and automated pipelines on Vercel and AWS."
+  },
+  "social": {
+    "heading": "Find Me Online",
+    "body": "Follow my work, fork something, or just say hello.",
+    "cta": "Let's connect",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "projects": {
+    "eyebrow": "Full Archive",
+    "heading": "All Projects",
+    "body": "Every build tells a story. Here's the full archive — side projects, client work, and open-source contributions that shaped how I think about software.",
+    "filterAll": "All",
+    "viewLive": "View live",
+    "viewRepo": "View repo",
+    "closeModal": "Close",
+    "techStack": "Tech Stack",
+    "liveDemo": "Live Demo",
+    "sourceCode": "Source Code",
+    "ctaHeading": "Have a project in mind?",
+    "ctaBody": "I'm always open to interesting problems. If you've got an idea that needs a sharp developer, let's talk.",
+    "ctaButton": "Get in touch",
+    "cta": {
+      "body": "Ready to see what I can build for you?",
+      "button": "Start a Project",
+      "eyebrow": "Let's Work Together",
+      "title": "Have an Idea in Mind?"
+    },
+    "empty": {
+      "body": "Check back soon for new work.",
+      "title": "No Projects Yet"
+    },
+    "header": {
+      "eyebrow": "Selected Work",
+      "subtitle": "A collection of recent projects showcasing design and development.",
+      "title": "Featured Projects"
+    },
+    "live_demo": "Live Demo",
+    "source": "Source Code",
+    "view_all": "View All Projects"
+  },
+  "about": {
+    "eyebrow": "About Me",
+    "introHeading": "I build things for the web — and I care deeply about how they feel.",
+    "introBody": "Based in San Francisco. Fuelled by strong coffee, open-source culture, and the quiet satisfaction of a perfectly optimised Lighthouse score.",
+    "bioHeading": "The full story",
+    "bio1": "I'm Alex Rivera, a Full-Stack Developer with 6+ years of experience shipping products that people actually enjoy using. My background spans early-stage startups, agency work, and open-source — which means I'm equally comfortable whiteboarding an architecture from scratch and polishing the last 5% of a UI that makes users smile.",
+    "bio2": "I started my career as a front-end developer in love with CSS and gradually fell into back-end systems, databases, and DevOps out of sheer curiosity. Today I sit comfortably across the full stack, with a particular passion for developer experience, performance engineering, and design systems.",
+    "bio3": "When I'm not coding, you'll find me hiking the Marin Headlands, contributing to open-source projects, or writing about web development on my blog. I believe great software is a craft — and I treat it that way.",
+    "pullQuote": "Great software is a craft. I treat it that way.",
+    "stackHeading": "Tech Stack & Tools",
+    "socialHeading": "Let's Stay in Touch",
+    "socialBody": "Follow my work on GitHub, connect professionally on LinkedIn, or catch my shorter thoughts on Twitter. I reply to every thoughtful message.",
+    "socialCta": "View my GitHub",
+    "yearsExp": "6+",
+    "yearsLabel": "Years experience",
+    "projectsShipped": "20+",
+    "projectsLabel": "Projects shipped",
+    "starsEarned": "900+",
+    "starsLabel": "GitHub stars",
+    "avatarAlt": "Profile photo",
+    "bio": {
+      "label": "About me",
+      "p1": "I'm a designer and developer passionate about creating digital experiences that are both beautiful and functional. With a background in both design and code, I bridge the gap between aesthetics and engineering.",
+      "p2": "Over the past few years, I've worked with startups and established brands to craft interfaces that users love. I believe great design solves problems elegantly, and every pixel should serve a purpose.",
+      "p3": "When I'm not designing or coding, you'll find me exploring new tools, contributing to open source, or writing about design systems and modern web practices.",
+      "p4": "I'm always interested in collaborating on meaningful projects. Let's build something great together."
+    },
+    "heading": {
+      "accent": "Designer",
+      "line1": "Creative",
+      "line2": "Developer"
+    },
+    "intro": "Crafting digital experiences with code and design",
+    "label": "About",
+    "oneliner": "I design and build modern web experiences",
+    "pullquote": "Great design is invisible. It works so well you don't notice it.",
+    "pullquoteRole": "Design Philosophy",
+    "social": {
+      "emailCta": "Send me an email",
+      "heading": "Let's connect",
+      "label": "Social",
+      "sub": "Find me on these platforms"
+    },
+    "stack": {
+      "heading": "My toolkit",
+      "label": "Stack",
+      "sub": "Technologies I work with daily"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "heading": "Let's Build Something Together.",
+    "body": "Whether you have a project brief ready to go or just an early-stage idea, I'd love to hear from you. I typically respond within 24 hours.",
+    "formHeading": "Send a Message",
+    "formBody": "Fill in the form and your message lands directly in my inbox. Include project scope, timeline, and budget for a useful first response.",
+    "labelName": "Your name",
+    "placeholderName": "What should I call you?",
+    "labelEmail": "Email address",
+    "placeholderEmail": "Where should I reply?",
+    "labelSubject": "Subject",
+    "placeholderSubject": "Project inquiry, collaboration, or just saying hi?",
+    "labelMessage": "Message",
+    "placeholderMessage": "Tell me what you're working on...",
+    "submit": "Send message",
+    "sending": "Sending...",
+    "successHeading": "Message sent!",
+    "successBody": "Thanks for reaching out. I'll get back to you within 24 hours.",
+    "errorMessage": "Something went wrong. Please try again or email me directly.",
+    "channelHeading": "Prefer a Different Channel?",
+    "channelBody": "Reach me directly at hello@alexrivera.dev, or find me on the platforms below. For urgent freelance inquiries, LinkedIn DMs get the fastest response.",
+    "channelCta": "Connect on LinkedIn",
+    "emailLabel": "Email",
+    "responseTime": "Typical response: within 24 hours",
+    "errorName": "Name is required",
+    "errorEmail": "Valid email is required",
+    "errorSubject": "Subject is required",
+    "errorMessage2": "Message must be at least 20 characters",
+    "form": {
+      "emailLabel": "Email",
+      "emailPlaceholder": "your@email.com",
+      "errorMessage": "Something went wrong. Please try again.",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Tell me about your project...",
+      "nameLabel": "Name",
+      "namePlaceholder": "Your name",
+      "sectionLabel": "Get in touch",
+      "sending": "Sending...",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "What's this about?",
+      "submit": "Send message"
+    },
+    "info": {
+      "availability": "Available for work",
+      "availabilityNote": "Open to freelance and full-time opportunities",
+      "availableStatus": "Open to opportunities",
+      "description": "Have a project in mind? I'd love to hear about it.",
+      "directContact": "Direct contact",
+      "emailLabel": "Email me",
+      "findMeOn": "Find me on"
+    },
+    "subheading": "Let's work together",
+    "toast": {
+      "body": "Thanks for reaching out. I'll get back to you soon.",
+      "title": "Message sent"
+    }
+  },
+  "cta": {
+    "button": "Start a project",
+    "check1": "Responsive design",
+    "check2": "Performance optimized",
+    "check3": "Accessible & modern",
+    "eyebrow": "Ready to collaborate?",
+    "heading": "Let's build something amazing",
+    "subtext": "From concept to launch, I'll help bring your vision to life"
+  },
+  "testimonials": {
+    "eyebrow": "Social Proof",
+    "heading": "What Others Say"
+  },
+  "values": {
+    "eyebrow": "Core Values",
+    "heading": "How I Work",
+    "subtext": "Guided by principles that shape every project and collaboration."
+  }
+}

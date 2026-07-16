@@ -1,1 +1,222 @@
-{}
+{
+  "nav": {
+    "brand": "Alex Rivera",
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "cta": "Contratarme",
+    "menuToggle": "Alternar menú de navegación"
+  },
+  "footer": {
+    "tagline": "Desarrollador Full-Stack que crea productos web de alto rendimiento con cuidado y precisión.",
+    "navigation": "Navegación",
+    "connect": "Conectar",
+    "copyright": "© {year} {name}. Todos los derechos reservados.",
+    "builtWith": "Construido con Next.js y Framer Motion"
+  },
+  "hero": {
+    "eyebrow": "Disponible para nuevos proyectos",
+    "heading": "Creando experiencias digitales que dejan huella.",
+    "nameIntro": "Hola, soy Alex Rivera",
+    "body": "Un Desarrollador Full-Stack que convierte ideas complejas en productos web elegantes y de alto rendimiento. Me obsesiono con los detalles para que tus usuarios nunca tengan que hacerlo.",
+    "availability": "Disponible para proyectos freelance y oportunidades a tiempo completo.",
+    "ctaPrimary": "Ver mi trabajo",
+    "ctaSecondary": "Ponte en contacto",
+    "scrollHint": "Desplázate para explorar",
+    "cta_primary": "Ver Mi Trabajo",
+    "cta_secondary": "Ponte en Contacto",
+    "headline1": "Desarrollador Creativo",
+    "headline2": "y",
+    "headline3": "Pensador de Diseño",
+    "subtext": "Creando experiencias digitales que combinan estética con funcionalidad."
+  },
+  "featured": {
+    "eyebrow": "Trabajo Seleccionado",
+    "heading": "Proyectos de los que estoy orgulloso",
+    "body": "Una selección curada de proyectos — desde productos de cero a lanzamiento hasta reconstrucciones técnicas profundas.",
+    "viewAll": "Ver todos los proyectos"
+  },
+  "skills": {
+    "eyebrow": "Capacidades",
+    "heading": "Lo Que Aporto a la Mesa",
+    "body": "Un conjunto de herramientas de espectro completo construido para desarrollo web moderno — desde interfaces pixel-perfect hasta arquitectura back-end escalable.",
+    "react": "React y Next.js",
+    "reactDesc": "Interfaces impulsadas por componentes con renderizado del lado del servidor y App Router.",
+    "typescript": "TypeScript",
+    "typescriptDesc": "Bases de código type-safe que escalan sin sorpresas.",
+    "nodejs": "Node.js y APIs",
+    "nodejsDesc": "Servicios back-end robustos y capas de datos REST/GraphQL.",
+    "postgres": "PostgreSQL y Prisma",
+    "postgresDesc": "Bases de datos relacionales modeladas para claridad y velocidad.",
+    "tailwind": "Tailwind & Framer Motion",
+    "tailwindDesc": "Sistemas de diseño y animaciones fluidas, de la mano.",
+    "devops": "Docker & CI/CD",
+    "devopsDesc": "Despliegues containerizados y pipelines automatizados en Vercel y AWS."
+  },
+  "social": {
+    "heading": "Encuéntrame en línea",
+    "body": "Sigue mi trabajo, haz fork de algo, o simplemente saluda.",
+    "cta": "Conectemos",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "twitter": "Twitter"
+  },
+  "projects": {
+    "eyebrow": "Archivo completo",
+    "heading": "Todos los proyectos",
+    "body": "Cada proyecto cuenta una historia. Aquí está el archivo completo — proyectos personales, trabajo con clientes y contribuciones de código abierto que moldearon cómo pienso sobre software.",
+    "filterAll": "Todos",
+    "viewLive": "Ver en vivo",
+    "viewRepo": "Ver repositorio",
+    "closeModal": "Cerrar",
+    "techStack": "Stack tecnológico",
+    "liveDemo": "Demo en vivo",
+    "sourceCode": "Código fuente",
+    "ctaHeading": "¿Tienes un proyecto en mente?",
+    "ctaBody": "Siempre estoy abierto a problemas interesantes. Si tienes una idea que necesita un desarrollador agudo, hablemos.",
+    "ctaButton": "Ponte en contacto",
+    "cta": {
+      "body": "¿Listo para ver qué puedo construir para ti?",
+      "button": "Iniciar un proyecto",
+      "eyebrow": "Trabajemos juntos",
+      "title": "¿Tienes una idea en mente?"
+    },
+    "empty": {
+      "body": "Vuelve pronto para nuevo trabajo.",
+      "title": "Sin proyectos aún"
+    },
+    "header": {
+      "eyebrow": "Trabajo seleccionado",
+      "subtitle": "Una colección de proyectos recientes que muestran diseño y desarrollo.",
+      "title": "Proyectos destacados"
+    },
+    "live_demo": "Demo en vivo",
+    "source": "Código fuente",
+    "view_all": "Ver todos los proyectos"
+  },
+  "about": {
+    "eyebrow": "Sobre mí",
+    "introHeading": "Construyo cosas para la web — y me importa profundamente cómo se sienten.",
+    "introBody": "Basado en San Francisco. Impulsado por café fuerte, cultura de código abierto, y la satisfacción tranquila de una puntuación Lighthouse perfectamente optimizada.",
+    "bioHeading": "La historia completa",
+    "bio1": "Soy Alex Rivera, Desarrollador Full-Stack con 6+ años de experiencia creando productos que la gente realmente disfruta usar. Mi trayectoria abarca startups en etapa temprana, trabajo en agencias y código abierto — lo que significa que me siento igualmente cómodo diseñando una arquitectura desde cero y puliendo ese último 5% de una UI que hace sonreír a los usuarios.",
+    "bio2": "Comencé mi carrera como desarrollador front-end enamorado del CSS y gradualmente me adentré en sistemas back-end, bases de datos y DevOps por pura curiosidad. Hoy me desenvuelvo cómodamente en todo el stack, con una pasión particular por la experiencia del desarrollador, ingeniería de rendimiento y sistemas de diseño.",
+    "bio3": "Cuando no estoy codificando, me encontrarás haciendo senderismo en Marin Headlands, contribuyendo a proyectos de código abierto, o escribiendo sobre desarrollo web en mi blog. Creo que el gran software es un oficio — y lo trato como tal.",
+    "pullQuote": "El gran software es un oficio. Lo trato como tal.",
+    "stackHeading": "Stack Tecnológico y Herramientas",
+    "socialHeading": "Mantengamos el Contacto",
+    "socialBody": "Sigue mi trabajo en GitHub, conéctate profesionalmente en LinkedIn, o lee mis pensamientos más breves en Twitter. Respondo a cada mensaje reflexivo.",
+    "socialCta": "Ver mi GitHub",
+    "yearsExp": "6+",
+    "yearsLabel": "Años de experiencia",
+    "projectsShipped": "20+",
+    "projectsLabel": "Proyectos entregados",
+    "starsEarned": "900+",
+    "starsLabel": "Estrellas en GitHub",
+    "avatarAlt": "Foto de perfil",
+    "bio": {
+      "label": "Sobre mí",
+      "p1": "Soy diseñador y desarrollador apasionado por crear experiencias digitales que sean hermosas y funcionales. Con formación en diseño y código, cierro la brecha entre la estética y la ingeniería.",
+      "p2": "En los últimos años, he trabajado con startups y marcas establecidas para crear interfaces que los usuarios aman. Creo que el gran diseño resuelve problemas elegantemente, y cada píxel debe tener un propósito.",
+      "p3": "Cuando no estoy diseñando o codificando, me encontrarás explorando nuevas herramientas, contribuyendo a código abierto, o escribiendo sobre sistemas de diseño y prácticas web modernas.",
+      "p4": "Siempre estoy interesado en colaborar en proyectos significativos. Construyamos algo genial juntos."
+    },
+    "heading": {
+      "accent": "Diseñador",
+      "line1": "Creativo",
+      "line2": "Desarrollador"
+    },
+    "intro": "Creando experiencias digitales con código y diseño",
+    "label": "Sobre",
+    "oneliner": "Diseño y construyo experiencias web modernas",
+    "pullquote": "El gran diseño es invisible. Funciona tan bien que no lo notas.",
+    "pullquoteRole": "Filosofía de Diseño",
+    "social": {
+      "emailCta": "Envíame un correo",
+      "heading": "Conectemos",
+      "label": "Social",
+      "sub": "Encuéntrame en estas plataformas"
+    },
+    "stack": {
+      "heading": "Mi kit de herramientas",
+      "label": "Stack",
+      "sub": "Tecnologías con las que trabajo diariamente"
+    }
+  },
+  "contact": {
+    "eyebrow": "Ponte en contacto",
+    "heading": "Construyamos Algo Juntos.",
+    "body": "Ya sea que tengas un brief de proyecto listo o solo una idea en etapa temprana, me encantaría saber de ti. Normalmente respondo dentro de 24 horas.",
+    "formHeading": "Envía un Mensaje",
+    "formBody": "Completa el formulario y tu mensaje llega directamente a mi bandeja de entrada. Incluye el alcance del proyecto, cronograma y presupuesto para una respuesta útil.",
+    "labelName": "Tu nombre",
+    "placeholderName": "¿Cómo debo llamarte?",
+    "labelEmail": "Correo electrónico",
+    "placeholderEmail": "¿Dónde debo responder?",
+    "labelSubject": "Asunto",
+    "placeholderSubject": "¿Consulta de proyecto, colaboración, o solo saludar?",
+    "labelMessage": "Mensaje",
+    "placeholderMessage": "Cuéntame en qué estás trabajando...",
+    "submit": "Enviar mensaje",
+    "sending": "Enviando...",
+    "successHeading": "¡Mensaje enviado!",
+    "successBody": "Gracias por contactarme. Te responderé dentro de 24 horas.",
+    "errorMessage": "Algo salió mal. Por favor, intenta de nuevo o envíame un correo directamente.",
+    "channelHeading": "¿Prefieres otro canal?",
+    "channelBody": "Contáctame directamente en hello@alexrivera.dev, o encuéntrame en las plataformas de abajo. Para consultas urgentes de freelance, los mensajes de LinkedIn tienen la respuesta más rápida.",
+    "channelCta": "Conecta en LinkedIn",
+    "emailLabel": "Correo electrónico",
+    "responseTime": "Respuesta típica: dentro de 24 horas",
+    "errorName": "El nombre es requerido",
+    "errorEmail": "Se requiere un correo electrónico válido",
+    "errorSubject": "El asunto es requerido",
+    "errorMessage2": "El mensaje debe tener al menos 20 caracteres",
+    "form": {
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "tu@correo.com",
+      "errorMessage": "Algo salió mal. Por favor, intenta de nuevo.",
+      "messageLabel": "Mensaje",
+      "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Tu nombre",
+      "sectionLabel": "Ponte en contacto",
+      "sending": "Enviando...",
+      "subjectLabel": "Asunto",
+      "subjectPlaceholder": "¿De qué se trata?",
+      "submit": "Enviar mensaje"
+    },
+    "info": {
+      "availability": "Disponible para trabajar",
+      "availabilityNote": "Abierto a oportunidades de freelance y tiempo completo",
+      "availableStatus": "Abierto a oportunidades",
+      "description": "¿Tienes un proyecto en mente? Me encantaría saber de él.",
+      "directContact": "Contacto directo",
+      "emailLabel": "Envíame un correo",
+      "findMeOn": "Encuéntrame en"
+    },
+    "subheading": "Trabajemos juntos",
+    "toast": {
+      "body": "Gracias por comunicarte. Te responderé pronto.",
+      "title": "Mensaje enviado"
+    }
+  },
+  "cta": {
+    "button": "Iniciar un proyecto",
+    "check1": "Diseño responsivo",
+    "check2": "Rendimiento optimizado",
+    "check3": "Accesible y moderno",
+    "eyebrow": "¿Listo para colaborar?",
+    "heading": "Construyamos algo increíble",
+    "subtext": "De la idea al lanzamiento, te ayudaré a hacer realidad tu visión"
+  },
+  "testimonials": {
+    "eyebrow": "Prueba Social",
+    "heading": "Lo que Otros Dicen"
+  },
+  "values": {
+    "eyebrow": "Valores Fundamentales",
+    "heading": "Cómo Trabajo",
+    "subtext": "Guiado por principios que moldean cada proyecto y colaboración."
+  }
+}
